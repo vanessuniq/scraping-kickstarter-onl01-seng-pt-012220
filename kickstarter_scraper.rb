@@ -1,5 +1,5 @@
 require 'nokogiri'
-require './fixtures/kickstarter.html'
+require 'pry'
 
 
 def create_project_hash
